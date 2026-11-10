@@ -1,0 +1,11 @@
+{
+  "name": "AI StockGuard - RouteX",
+  "short_name": "StockGuard",
+  "description": "ระบบจัดการคลังสินค้าอัจฉริยะ RouteX LSM11167",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f1f5f9",
+  "theme_color": "#101c35"
+}
